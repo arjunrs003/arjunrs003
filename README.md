@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @arjunrs003
 - 👀 I’m interested in Data Science, Machine Learning
-- 🌱 I’m currently learning Deep learning, NLP
+- 🌱 I’m currently learning Deep learning, NLP and doing virtual real-time projects
 - 💞️ I’m looking to collaborate on Data Science
 - 📫 How to reach me https://www.linkedin.com/in/arjunrs003/
 
